@@ -1,0 +1,12 @@
+ #window
+{
+	background-color: White;
+}
+
+#window
+{
+	width: 100%;
+	min-width: 1040px;
+	max-width: 1600px;
+	height: 30px;
+}
