@@ -1,12 +1,39 @@
  #window
 {
 	background-color: White;
-}
-
-#window
-{
 	width: 100%;
 	min-width: 1040px;
 	max-width: 1600px;
-	height: 30px;
+	margin: auto;
+	
+}
+
+	#menu
+	{
+		background-color: #ccd9ff;
+		height: 35px;
+		margin-bottom: 20px;
+		
+    }
+
+    #center
+    {
+	    margin-top: 10px;
+	    position: relative;  
+	}
+
+#imageCity
+{
+	position: relative;
+	float: left;
+	width: 20%;
+	height: 300px;
+	overflow: hidden;
+	text-align: center;
+}
+
+#imageCity img
+{
+	width: 90%;
+	
 }
